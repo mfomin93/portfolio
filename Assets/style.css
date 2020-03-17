@@ -1,4 +1,7 @@
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 #bannerImageOne {
-    height: auto 0;
-    width: auto 0;
+width: auto 0;
+height: 300px;
 }
